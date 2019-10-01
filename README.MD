@@ -6,5 +6,5 @@ Den här raden skrevs från dev-branchen.
 
 Detta skrevs från GitHub.
 
-Detta skrivs lokalt, för att orsaka konflikter.
+Vi löser konflikten genom att hitta på något nytt.
 Vi gör ändringar lokalt och på servern (GitHub) samtidigt.
