@@ -10,5 +10,9 @@ const movies = [
 	{
 		title: 'Inception',
 		year: 2010
+	},
+	{
+		title: 'The Fast and the Furious',
+		year: 2001
 	}
 ]
